@@ -1,0 +1,1 @@
+use mame roms for nova2001h (contains bugfix for boot issues around coinup)
